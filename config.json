@@ -1,0 +1,38 @@
+{
+    "algo": "argon2/chukwav2",
+    "api": {
+      "port": 0,
+      "access-token": null,
+      "worker-id": null,
+      "ipv6": false,
+      "restricted": true
+    },
+    "av": 2,
+    "background": false,
+    "colors": false,
+    "cpu-affinity": null,
+    "cpu-priority": null,
+    "donate-level": 1,
+    "huge-pages": true,
+    "hw-aes": null,
+    "log-file": null,
+    "max-cpu-usage": 75,
+    "pools": [
+      {
+        "url": "ca.turtlecoin.herominers.com:10380",
+        "user": "TRTLuzAyPPASGaxWJi4U7oJ9nEFVGkCcJVKoVyZuKyFJ88G1bjAtayJCBZ1cAdSJZgiDosGrFkcUbiLYFj7FUYdMMJaThJXhp92",
+        "pass": "",
+        "rig-id": null,
+        "nicehash": false,
+        "keepalive": false,
+        "variant": 1
+      }
+    ],
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "safe": false,
+    "threads": null,
+    "user-agent": null,
+    "watch": false
+  }
